@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'ZlwLib_Example' do
+  pod 'ZlwLib', :path => '../'
+
+  target 'ZlwLib_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
