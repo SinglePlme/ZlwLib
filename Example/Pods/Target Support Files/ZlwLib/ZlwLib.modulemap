@@ -1,0 +1,6 @@
+framework module ZlwLib {
+  umbrella header "ZlwLib-umbrella.h"
+
+  export *
+  module * { export * }
+}

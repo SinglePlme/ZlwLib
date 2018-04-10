@@ -1,0 +1,27 @@
+{
+  "name": "ZlwLib",
+  "version": "0.1.0",
+  "summary": "A short description of ZlwLib.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/zhaolw_yc@163.com/ZlwLib",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "zhaolw_yc@163.com": "zhaolw_yc@163.com"
+  },
+  "source": {
+    "git": "https://github.com/zhaolw_yc@163.com/ZlwLib.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ZlwLib/Classes/**/*",
+  "dependencies": {
+    "AFNetworking": [
+
+    ]
+  }
+}
