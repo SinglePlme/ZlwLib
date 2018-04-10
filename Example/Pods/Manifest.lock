@@ -14,7 +14,7 @@ PODS:
   - AFNetworking/Serialization (3.2.0)
   - AFNetworking/UIKit (3.2.0):
     - AFNetworking/NSURLSession
-  - ZlwLib (0.1.0):
+  - ZlwLib (0.1.1):
     - AFNetworking
 
 DEPENDENCIES:
@@ -26,7 +26,7 @@ EXTERNAL SOURCES:
 
 SPEC CHECKSUMS:
   AFNetworking: 8ac6017b94ea105479f7776e5288e48ae9c59bb4
-  ZlwLib: 55297573519b1f33730b8507372ae1219e0076ab
+  ZlwLib: 7669028e136ca4f4048b9dedd8bd58c994d08b80
 
 PODFILE CHECKSUM: 8d5da35558cfd4eba12267aa738c971a97b815fb
 
